@@ -1,9 +1,7 @@
 header{
-  margin-left: 10px;
-  margin-right: 50px;
   display: block;
   text-align: center;
-  max-width: 70%;
+  min-width: 100%;
   background-color: rgba(128, 0, 0, .75);
   padding-bottom: 10px;
   padding-top: 10px;
