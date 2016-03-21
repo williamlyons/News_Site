@@ -64,12 +64,12 @@ p {
 body{
   background-attachment: fixed;
   background-repeat: no-repeat;
-  min-width: 100%;
+  
 
 }
 h1{
   height: 30px;
-  color: grey;
+  color: white;
 }
 h2{
   height: 20px;
