@@ -39,13 +39,13 @@ nav{
   display: block;
   text-align: center;
   margin: 0 auto;
-  background-color: #CC0033;
+  background-color: solid white;
   padding-bottom: 10px;
   padding-top: 10px;
   padding-left: 10px;
   margin-bottom: 10px;
   margin-top: 20px;
-  border: 4px #FFFF00;
+  border: 4px #CC0033;
 }
 img {
   max-width: 80%;
