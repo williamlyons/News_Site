@@ -15,24 +15,12 @@ header{
   
 }
 headerphoto{
-  margin: 0 auto;
   display: inline;
   text-align: right;
   max-width: 30%;
   border: 6px #FFD700;
 }
-nav{
-  float: right;
-  margin-right: 600 auto;
-  display: block;
-  text-align: right;
-  background-color: #CC0033;
-  padding-bottom: 10px;
-  padding-top: 10px;
-  padding-left: 10px;
-  margin-bottom: 10px;
-  border: 6px #FFD700;
-}
+
 .main{
   max-width: 90%;
   min-width: 70%;
@@ -78,7 +66,7 @@ article{
   background-color: #CC0033;
 }
 body{
-  background-color: grey;
+  background-color: black;
 }
 h1{
   height: 30px;
