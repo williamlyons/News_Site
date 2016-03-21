@@ -68,6 +68,8 @@ article{
 }
 body{
   background-attachment: fixed;
+  background-repeat: no-repeat;
+
 }
 h1{
   height: 30px;
