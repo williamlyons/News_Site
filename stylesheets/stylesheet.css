@@ -80,7 +80,7 @@ h3{
 }
 footer{
   margin: 0 auto;
-  display: inline;
+  display: block;
   text-align: center;
   max-width: 70%;
   background-color: #CC0033;
