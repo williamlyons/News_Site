@@ -88,6 +88,7 @@ footer{
   padding-top: 10px;
   padding-left: 10px;
   margin-bottom: 10px;
-  border: 6px #FFD700;
-  margin-top: 50px;
+  border-color: #FFD700;
+  border-width: 6px;
+  border-style: ridge;
 }
