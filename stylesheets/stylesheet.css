@@ -7,7 +7,7 @@ header{
   padding-bottom: 10px;
   padding-top: 10px;
   padding-left: 10px;
-  border: 6px #FFFF00;
+  border: 6px #FFD700;
   
   
 }
@@ -16,7 +16,7 @@ headerphoto{
   display: inline;
   text-align: right;
   max-width: 30%;
-  border: 6px #FFFF00;
+  border: 6px #FFD700;
 }
 nav{
   float: right;
@@ -30,7 +30,7 @@ nav{
   padding-top: 10px;
   padding-left: 10px;
   margin-bottom: 10px;
-  border: 6px #FFFF00;
+  border: 6px #FFD700;
 }
 .main{
   max-width: 90%;
@@ -44,7 +44,7 @@ nav{
   padding-left: 10px;
   margin-bottom: 10px;
   margin-top: 20px;
-  border: 4px #FFFF00;
+  border: 4px #FFD700;
 }
 img {
   max-width: 80%;
@@ -71,7 +71,7 @@ article{
   margin-right: auto;
   padding-left: 10px;
   padding-right: 10px;
-  border: 4px #FFFF00;
+  border: 4px #FFD700;
   background-color: #CC0033;
 }
 body{
@@ -99,6 +99,6 @@ footer{
   padding-top: 10px;
   padding-left: 10px;
   margin-bottom: 10px;
-  border: 6px #FFFF00;
+  border: 6px #FFD700;
   margin-top: 50px;
 }
