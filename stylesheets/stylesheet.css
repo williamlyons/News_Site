@@ -52,7 +52,7 @@ iframe{
   margin: 0 auto;
   display: block;
 }
-article{
+.article{
   max-width: 90%;
   display: block;
   text-align: center;
@@ -63,9 +63,9 @@ article{
   margin-right: auto;
   padding-left: 10px;
   padding-right: 10px;
-  border-color: #FFD700;
-  border-width: 6px;
-  border-style: ridge;
+  border-bottom-color: #FFD700;
+  border-bottom-width: 4px;
+  border-bottom-style: ridge;
 }
 body{
   background-attachment: fixed;
