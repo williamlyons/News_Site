@@ -47,11 +47,7 @@ a {
 p {
   color: white;
 }
-iframe{
-  max-width: 80%;
-  margin: 0 auto;
-  display: block;
-}
+
 .article{
   max-width: 90%;
   display: block;
